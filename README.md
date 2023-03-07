@@ -1,4 +1,4 @@
-# PHPBookmark
+# GenerateBookmark
 GenerateBookmark is a bookmark System which helps users to add, delete and get recommended URLs. Fork of PHPBookmark.
 
 This project recommend the URLs based on the popularity among users.
